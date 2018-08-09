@@ -24,7 +24,7 @@
     "webrtc-signal-http-capacity": "^1.2.0",
     "webrtc-signal-http-heartbeat": "^1.0.0",
     "webrtc-signal-http-peer-identification": "^1.1.1",
-    "webrtc-signal-http-publisher": "^1.0.0"
+    "webrtc-signal-http-publisher": "^1.1.0"
   },
   "devDependencies": {
     "mocha": "^5.2.0",
